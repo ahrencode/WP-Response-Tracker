@@ -1,0 +1,34 @@
+
+.trackerstatusaction
+{
+    cursor: pointer;
+}
+
+.trackercommenttodo
+{
+    background-color: #ffeecc;
+}
+
+.trackercommentignored
+{
+    background-color: #eeeeee;
+}
+
+.trackercommentresponded
+{
+    background-color: #cceeff;
+}
+
+.trackercommentreplied
+{
+    background-color: #eeffcc !important;
+}
+
+.trackercurrentselected
+{
+    padding: 1px 3px;
+    background-color: #ddff99 !important;
+    border-top: 1px solid #aaaaaa;
+    border-bottom: 1px solid #aaaaaa;
+}
+
